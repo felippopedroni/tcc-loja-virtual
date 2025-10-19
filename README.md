@@ -1,11 +1,11 @@
-# 🧠 Projeto TCC — API de Autenticação e Usuários
+# Projeto TCC — API de Autenticação e Usuários
 
 Este projeto foi desenvolvido como parte de um **TCC**, utilizando **Node.js**, **Express** e **MongoDB**, com autenticação baseada em **JWT (JSON Web Tokens)**.  
 O sistema permite **cadastro, login, logout, atualização de dados do usuário e redefinição de senha**, além de **atualização de tokens** e **proteção de rotas seguras**.
 
 ---
 
-## 📦 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Node.js
 - Express
@@ -20,7 +20,7 @@ O sistema permite **cadastro, login, logout, atualização de dados do usuário 
 
 ---
 
-## ⚙️ Funcionalidades Principais
+## Funcionalidades Principais
 
 - Login de usuário
 - Cadastro de novo usuário
@@ -33,7 +33,7 @@ O sistema permite **cadastro, login, logout, atualização de dados do usuário 
 
 ---
 
-## 🗂️ Estrutura para rodar (Back-end)
+## Estrutura para rodar (Back-end)
 
 - cd server
 - npm run dev
