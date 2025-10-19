@@ -33,47 +33,10 @@ O sistema permite **cadastro, login, logout, atualização de dados do usuário 
 
 ---
 
-## 🗂️ Estrutura de Pastas (Back-end)
+## 🗂️ Estrutura para rodar (Back-end)
 
-server/
-├── config/
-│ ├── connectDB.js
-│ └── sendEmail.js
-│
-├── controllers/
-│ └── user.controller.js
-│
-├── middleware/
-│ ├── auth.js
-│ └── multer.js
-│
-├── models/
-│ ├── address.model.js
-│ ├── cartproduct.model.js
-│ ├── category.model.js
-│ ├── order.model.js
-│ ├── product.model.js
-│ ├── subCategory.model.js
-│ └── user.model.js
-│
-├── route/
-│ └── user.route.js
-│
-├── utils/
-│ ├── forgotPasswordTemplate.js
-│ ├── generatedOtp.js
-│ ├── generatedAccessToken.js
-│ ├── generatedRefreshToken.js
-│ ├── uploadImageCloudinary.js
-│ └── verifyEmailTemplate.js
-│
-├── .env
-├── index.js
-├── package.json
-└── package-lock.json
-
-
-
+- cd server
+- npm run dev
 
 
 > Estrutura atualizada em 2025-10-19
