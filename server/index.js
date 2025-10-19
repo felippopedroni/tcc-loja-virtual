@@ -9,6 +9,8 @@ import cookieParser from 'cookie-parser';
 import morgan from 'morgan';
 import helmet from 'helmet';
 
+// test 2
+
 const app = express();
 app.use(cors(
     {

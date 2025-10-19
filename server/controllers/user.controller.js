@@ -68,6 +68,8 @@ export async function registerUserController(req, res) {
     }
 }
 
+// testing commit
+
 export async function verifyEmailController(req, res) {
     try {
         const { code } = req.query;
